@@ -1,0 +1,57 @@
+Tentative outline for final project
+A webpage documenting my CS50 journey
+
+    A journal style webpage
+
+        Notes and comments each week
+
+            Week 0 -  Scratch
+                Having some familiarity with Blockly
+                    created a guess the number game with some sprite animation
+
+            Week 1 - Introduction to C, VS Code, and CLI in terminal
+                CLI and VSC
+
+                C - Never used C before. Needed to hit the CS50.ai for a lot of
+                    syntax. The strictness of the compiler is tough while learning.
+
+                    "Hello, it's me" added a user input
+
+                    "Mario" added a loop to print to the screen and selective use
+                        of the "\n" to initiate a new line
+
+                    "Cash" I followed the hints and wound up with an unnecessary
+                        number of functions. The proper way was probably using " %" Modulo
+                        to leave a remainder.
+
+            Week 2 -Cryptography
+                    Scrabble -  Do math on the ASCII value of alpha characters
+
+                    Readability - Use established 'readability' algorithms on large strings
+                                to determine approx grade level of the text.
+                                String manipulation
+
+                    Caesar - Using an offset, encrypt text
+                            Command Line Args
+                            Memory allocation
+
+            Week 3 - Search and sorts
+                    Sort - Using different sort routines
+
+                    Plurality - Simple vote tabulation
+
+                    Runoff - Counting in a multi pass ranked choice voting routine
+
+            Week 4 - Memory Allocation, pointers, peeks and pokes
+            Week 5
+            Week 6
+            Week 7  Python
+            Week 8  HTML, CSS, and JavaScript
+            Week 9
+            Week 10
+
+
+
+
+
+        Working links and apps of course projects

@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: performed fastest on sorted list
+
+sort2 uses: Merge sort
+
+How do you know?: Consistent performance regardless if list was sorted or random. Size of list only determining factor.
+
+sort3 uses: Selection sort
+
+How do you know?: Consistent performance regardless if list was sorted or random. Size of list only determining factor but appreciably slower than sort2, merge sort.
