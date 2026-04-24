@@ -1,0 +1,15 @@
+# Custom Dictionary Words
+elif
+emojize
+figlet
+isalnum
+isalpha
+isnumeric
+isupper
+pathlib
+pyfiglet
+randint
+rpartition
+startswith
+taqueria
+twttr

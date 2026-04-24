@@ -1,0 +1,125 @@
+Found in search_tool.py: ["The 'ast' module for parsing Python code safely", "The 'pathlib' module for file and directory traversal", "Command line arguments via 'sys'"]
+Found in parse_concepts.py: ['Abstract Syntax Tree parsing (ast module)', 'File system traversal (os.walk)', 'Set operations', 'String manipulation and list comprehensions', 'Type hinting']
+Found in adieu.py: ['Exception handling (try/except blocks)', 'Indefinite iteration (while True)', 'Third-party library usage (inflect)', 'List manipulation']
+Found in bank.py: ['String manipulation (strip, lower, startswith)', 'Conditional logic (if/elif/else)']
+Found in bitcoin.py: ['External API requests (requests module)', 'JSON parsing (response.json())', 'Exception handling (try/except for HTTPError and ValueError)', 'Command-line arguments (sys.argv)', 'String formatting (e.g., thousands separators)']
+Found in camel.py: ['String iteration and enumeration (for, enumerate)', 'String methods (isupper, lower, join)', 'List operations (append)']
+Found in coke.py: ['Iteration (while loops)', 'Conditional logic (if/elif)', 'Membership testing (in list)', 'Arithmetic operations (subtraction, absolute value)']
+Found in deep.py: ['Conditional logic (if/else)', 'String manipulation (strip, lower)', 'Logical operators (or)']
+Found in dna.py: ['File I/O operations (open, read)', 'CSV parsing (csv.DictReader)', "Command line arguments via 'sys'", 'Dictionary and List manipulation', 'Nested iteration and slicing']
+Found in einstein.py: ['Arithmetic operations (multiplication, exponentiation)', 'Type casting (int)', 'Functions with return values']
+Found in emojize.py: ['Third-party library integration (emoji module)', 'String manipulation (strip, lower)', 'Standard __main__ execution block']
+Found in extensions.py: ['String manipulation (strip, lower, rpartition)', 'Conditional logic (if/elif/else)', 'Slicing and list indexing']
+Found in figlet.py: ['Command-line arguments (sys.argv)', 'Third-party modules (pyfiglet)', 'Random choice (random module)', 'Exiting with error messages (sys.exit)']
+Found in fuel.py: ['Exception handling (try/except)', 'String splitting and stripping', 'Infinite loops with break conditions (while True)', 'Type conversion (int, float)', 'String formatting']
+Found in game.py: ['Random number generation (random.randint)', 'Exception handling (ValueError)', 'Infinite loops with breaking conditions', 'Input validation and type casting']
+Found in grocery.py: ['Dictionaries for frequency counting', 'Exception handling (try/except for KeyError and EOFError)', 'Sorting collections', 'String manipulation (strip, lower, upper)']
+Found in indoor.py: ['Basic standard input/output (input, print)', 'String manipulation (lower)']
+Found in playback.py: ['Standard input/output operations', 'String manipulation (replace)']
+Found in interpreter.py: ['String splitting and formatting', 'Conditional logic (if/elif/else statements)', 'Type conversion (float)']
+Found in meal.py: ['String manipulation (strip, lower, split)', 'Type casting (float)', 'Conditional logic (if/elif)', 'Math operations']
+Found in nutrition.py: ['Dictionary mapping and lookups', 'String manipulation (strip, lower)', 'Infinite iteration (while True) and breaking (break)']
+Found in plates.py: ['String length checking (len)', 'String methods (isalnum, isalpha, isnumeric)', 'String slicing', 'State tracking using flags', 'Iteration (for loop)']
+Found in professor.py: ['Random number generation (random module)', 'Exception handling (try/except for ValueError)', 'Loop control (for, while, break, continue)', 'Custom functions with return values']
+Found in taqueria.py: ['Dictionary mapping and lookups', 'String manipulation (strip, lower, title)', 'Exception handling (try/except for EOFError)', 'Infinite iteration (while True)', 'String formatting (to 2 decimal places)']
+Found in twttr.py: ['Sets and membership testing (in / not in)', 'String manipulation (joining lists)', 'Iteration over iterables (for loops)']
+Found in hello.py: ['Standard input/output (input, print)', 'String concatenation']
+Found in add_function.py: ['Type hinting', 'Google-style docstrings']
+Found in api.py: ['Third-party library integration (requests module)', 'JSON parsing (json module)', 'Command line arguments (sys module)', 'Exception handling (try/except blocks)']
+Found in command_line_args.py: ['Command line argument evaluation (sys.argv)', 'System exit (sys.exit)']
+Found in control_d_EOF.py: ['Exception handling (try/except blocks)', 'Infinite loops (while True)']
+
+--- Master List of Python Concepts Used ---
+- Abstract Syntax Tree parsing (ast module)
+- Arithmetic operations (multiplication, exponentiation)
+- Arithmetic operations (subtraction, absolute value)
+- Basic standard input/output (input, print)
+- CSV parsing (csv.DictReader)
+- Command line argument evaluation (sys.argv)
+- Command line arguments (sys module)
+- Command line arguments via 'sys'
+- Command-line arguments (sys.argv)
+- Conditional logic (if/elif)
+- Conditional logic (if/elif/else statements)
+- Conditional logic (if/elif/else)
+- Conditional logic (if/else)
+- Custom functions with return values
+- Dictionaries for frequency counting
+- Dictionary and List manipulation
+- Dictionary mapping and lookups
+- Exception handling (ValueError)
+- Exception handling (try/except blocks)
+- Exception handling (try/except for EOFError)
+- Exception handling (try/except for HTTPError and ValueError)
+- Exception handling (try/except for KeyError and EOFError)
+- Exception handling (try/except for ValueError)
+- Exception handling (try/except)
+- Exiting with error messages (sys.exit)
+- External API requests (requests module)
+- File I/O operations (open, read)
+- File system traversal (os.walk)
+- Functions with return values
+- Google-style docstrings
+- Indefinite iteration (while True)
+- Infinite iteration (while True)
+- Infinite iteration (while True) and breaking (break)
+- Infinite loops (while True)
+- Infinite loops with break conditions (while True)
+- Infinite loops with breaking conditions
+- Input validation and type casting
+- Iteration (for loop)
+- Iteration (while loops)
+- Iteration over iterables (for loops)
+- JSON parsing (json module)
+- JSON parsing (response.json())
+- List manipulation
+- List operations (append)
+- Logical operators (or)
+- Loop control (for, while, break, continue)
+- Math operations
+- Membership testing (in list)
+- Nested iteration and slicing
+- Random choice (random module)
+- Random number generation (random module)
+- Random number generation (random.randint)
+- Set operations
+- Sets and membership testing (in / not in)
+- Slicing and list indexing
+- Sorting collections
+- Standard __main__ execution block
+- Standard input/output (input, print)
+- Standard input/output operations
+- State tracking using flags
+- String concatenation
+- String formatting
+- String formatting (e.g., thousands separators)
+- String formatting (to 2 decimal places)
+- String iteration and enumeration (for, enumerate)
+- String length checking (len)
+- String manipulation (joining lists)
+- String manipulation (lower)
+- String manipulation (replace)
+- String manipulation (strip, lower)
+- String manipulation (strip, lower, rpartition)
+- String manipulation (strip, lower, split)
+- String manipulation (strip, lower, startswith)
+- String manipulation (strip, lower, title)
+- String manipulation (strip, lower, upper)
+- String manipulation and list comprehensions
+- String methods (isalnum, isalpha, isnumeric)
+- String methods (isupper, lower, join)
+- String slicing
+- String splitting and formatting
+- String splitting and stripping
+- System exit (sys.exit)
+- The 'ast' module for parsing Python code safely
+- The 'pathlib' module for file and directory traversal
+- Third-party library integration (emoji module)
+- Third-party library integration (requests module)
+- Third-party library usage (inflect)
+- Third-party modules (pyfiglet)
+- Type casting (float)
+- Type casting (int)
+- Type conversion (float)
+- Type conversion (int, float)
+- Type hinting

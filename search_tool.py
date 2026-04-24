@@ -32,7 +32,7 @@ def search_library(directory: str, search_term: str):
             # Read the python file
             with open(filepath, "r", encoding="utf-8") as file:
                 source_code = file.read()
-            
+
             # Parse the code into an Abstract Syntax Tree (AST) to easily get the docstring
             parsed_code = ast.parse(source_code)
             docstring = ast.get_docstring(parsed_code)
@@ -43,18 +43,18 @@ def search_library(directory: str, search_term: str):
                 print(f"   Path: {filepath}")
                 print("-" * 40)
                 matches_found += 1
-                
+
         except Exception as e:
-            # Skip files that can't be read or parsed
+            print(f"Error: {e}")
             continue
-            
+
     print(f"\nTotal matches found: {matches_found}")
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: python search_tool.py <search_term>")
         sys.exit(1)
-        
+
     # Hardcoded to search your library directory, passing the first command line argument
-    library_dir = "/home/mlab/Desktop/code_library"
-    search_library(library_dir, sys.argv[1])
+    LIBRARY_DIR = "/home/mlab/Desktop/code_library"
+    search_library(LIBRARY_DIR, sys.argv[1])
